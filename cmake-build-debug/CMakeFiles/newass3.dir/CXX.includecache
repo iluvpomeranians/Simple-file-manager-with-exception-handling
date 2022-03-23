@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/David/Desktop/Past or Inactive Classes/COEN244/Assignments/Ass3 David Martinez - 29556869 - COEN244 TA files/CurrentExceptions.h
+exception
+-
+string
+-
+
+C:/Users/David/Desktop/Past or Inactive Classes/COEN244/Assignments/Ass3 David Martinez - 29556869 - COEN244 TA files/File_Manager.cpp
+File_Manager.h
+C:/Users/David/Desktop/Past or Inactive Classes/COEN244/Assignments/Ass3 David Martinez - 29556869 - COEN244 TA files/File_Manager.h
+
+C:/Users/David/Desktop/Past or Inactive Classes/COEN244/Assignments/Ass3 David Martinez - 29556869 - COEN244 TA files/File_Manager.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+limits
+-
+CurrentExceptions.h
+C:/Users/David/Desktop/Past or Inactive Classes/COEN244/Assignments/Ass3 David Martinez - 29556869 - COEN244 TA files/CurrentExceptions.h
+TA.h
+C:/Users/David/Desktop/Past or Inactive Classes/COEN244/Assignments/Ass3 David Martinez - 29556869 - COEN244 TA files/TA.h
+algorithm
+-
+sstream
+-
+ctype.h
+-
+
+C:/Users/David/Desktop/Past or Inactive Classes/COEN244/Assignments/Ass3 David Martinez - 29556869 - COEN244 TA files/TA.cpp
+TA.h
+C:/Users/David/Desktop/Past or Inactive Classes/COEN244/Assignments/Ass3 David Martinez - 29556869 - COEN244 TA files/TA.h
+vector
+-
+sstream
+-
+
+C:/Users/David/Desktop/Past or Inactive Classes/COEN244/Assignments/Ass3 David Martinez - 29556869 - COEN244 TA files/TA.h
+string
+-
+iostream
+-
+
+C:/Users/David/Desktop/Past or Inactive Classes/COEN244/Assignments/Ass3 David Martinez - 29556869 - COEN244 TA files/main.cpp
+File_Manager.h
+C:/Users/David/Desktop/Past or Inactive Classes/COEN244/Assignments/Ass3 David Martinez - 29556869 - COEN244 TA files/File_Manager.h
+
